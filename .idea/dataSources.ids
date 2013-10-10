@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails reddit_client: development" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="28fecec1-66e7-4711-960d-99d042e5d2c1">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql:reddit_client_development</jdbc-url>
+    <user-name>reddit_client</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails reddit_client: test" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="5b585077-0dc6-4669-8fe4-fb605eff5047">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql:reddit_client_test</jdbc-url>
+    <user-name>reddit_client</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails reddit_client: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="78e835de-9019-4a42-9798-bbcbde6102a7">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql:reddit_client_production</jdbc-url>
+    <user-name>reddit_client</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-9.1-901.jdbc3.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
